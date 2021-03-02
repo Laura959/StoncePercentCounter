@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StoncePercentCounter</string>
+    <string name="enterHint">Enter number</string>
+</resources>
